@@ -9,3 +9,7 @@ gsgsg
 echo "hello master2";
 
 
+
+git push -u origin maingit push -u origin maingit push -u origin main
+
+
